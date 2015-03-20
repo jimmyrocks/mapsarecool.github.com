@@ -15,10 +15,10 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #30f224;
 }
 #footer {
-  background-color: #fdcd60;
+  background-color: #60fdcd;
 }
 
 
@@ -75,5 +75,5 @@ h1, h2, h3, h4 {
 
 .tag_box a.active {
   background: #57A957;
-  border: 1px solid #4c964d;
+  border: 1px solid #4d4c96;
   color: #FFF; }
